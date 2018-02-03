@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F7AF5D2A3382D626B7B280D1F2F2165D4F57F23A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A40BF240-966B-4BEF-97E8-7A52E9BCC780",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F7AF5D2A3382D626B7B280D1F2F2165D4F57F23A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGL环境搭建",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGL环境搭建.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CHOSTOPTHER\/Jeff.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7AF5D2A3382D626B7B280D1F2F2165D4F57F23A"
+    }
+  ]
+}
